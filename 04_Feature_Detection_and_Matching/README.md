@@ -1,10 +1,15 @@
 # 4. Feature Detection and Matching
 
+<img src='images/figure_4_1_drone.png' alt='Penguins dataset' width="800">
+
 [Insert introduction here]
 
 ## 4.1
 
 [Insert content for section 1 here]
+
+<img src='images/figure_4_2_van_damme.png' alt='Penguins dataset' width="800">
+
 
 ### Subsection 1.1
 
